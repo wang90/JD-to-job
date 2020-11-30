@@ -17,4 +17,3 @@
   - 使用 dispatch 和 commit 提交更新
   - 通过 mapState 或者直接通过 this.$store 来读取数据
 - 在 Redux 中，我们每一个组件都需要显示的用 connect 把需要的 props 和 dispatch 连接起来。
-
