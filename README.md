@@ -1,4 +1,5 @@
-# KungFu 前端 【功夫前端】
+# KungFu 前端
+<img src="./images/big-logo.png" alt="图片替换文本" width="200" height="130" />
 
 ## 说在前面
 
